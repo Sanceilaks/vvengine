@@ -1,0 +1,10 @@
+{
+  "name" : "vluastudio",
+  "version-string": "1",
+  "dependencies": [
+    "nlohmann-json",
+    "glfw3",
+    "spdlog",
+    "glew"
+  ]
+}
